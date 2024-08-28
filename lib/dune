@@ -1,0 +1,4 @@
+(library
+ (name riskofocaml)
+ (public_name RiskOfOCaml)
+ (libraries lwt raylib raygui stdlib ounit2 yojson))

@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries RiskOfOCaml ounit2 yojson))
